@@ -8,7 +8,11 @@ body {
     overflow-x: hidden;
 }
 
-ul, p {
+#publications-ol > li {
+    line-height: 170%;
+}
+
+ul, p, ol {
     font-size: 20px;
 }
 

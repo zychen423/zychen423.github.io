@@ -1,21 +1,21 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Zi-Yuan Chen
+email: chenziyuan0423@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+keywords: "Software Engineer, Python, Machine Learning, Deep Learning, Startups, Agile"
+skills: "Machine Learning Engineer, Data Scientist in NLP"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
+    url: https://www.linkedin.com/in/zi-yuan-chen-926b6a91/
   - title: twitter
-    url: https://twitter.com/chuck_groom
-    
+    url: https://twitter.com/zychen0423
+  - title: github
+    url: https://github.com/zychen423
+
 # Google webmaster tools
 google_verify:
 
@@ -29,8 +29,6 @@ color:
   secondary: 285172
   secondary-dark: 29455b
   section-tout: eaf1f1
-
-
 
 # Build settings
 markdown: kramdown
